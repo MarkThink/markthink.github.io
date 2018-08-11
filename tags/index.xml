@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Blog</title>
-    <link>http://markthink.github.io/tags/</link>
+    <link>https://rays.xyz/tags/</link>
     <description>Recent content in Tags on Hugo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
     <lastBuildDate>Mon, 28 Jul 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://markthink.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rays.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://markthink.github.io/tags/development/</link>
+      <link>https://rays.xyz/tags/development/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://markthink.github.io/tags/development/</guid>
+      <guid>https://rays.xyz/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://markthink.github.io/tags/go/</link>
+      <link>https://rays.xyz/tags/go/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://markthink.github.io/tags/go/</guid>
+      <guid>https://rays.xyz/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://markthink.github.io/tags/golang/</link>
+      <link>https://rays.xyz/tags/golang/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://markthink.github.io/tags/golang/</guid>
+      <guid>https://rays.xyz/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://markthink.github.io/tags/hugo/</link>
+      <link>https://rays.xyz/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://markthink.github.io/tags/hugo/</guid>
+      <guid>https://rays.xyz/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://markthink.github.io/tags/markdown/</link>
+      <link>https://rays.xyz/tags/markdown/</link>
       <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://markthink.github.io/tags/markdown/</guid>
+      <guid>https://rays.xyz/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>http://markthink.github.io/tags/templates/</link>
+      <link>https://rays.xyz/tags/templates/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://markthink.github.io/tags/templates/</guid>
+      <guid>https://rays.xyz/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>http://markthink.github.io/tags/theme/</link>
+      <link>https://rays.xyz/tags/theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://markthink.github.io/tags/theme/</guid>
+      <guid>https://rays.xyz/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>http://markthink.github.io/tags/themes/</link>
+      <link>https://rays.xyz/tags/themes/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://markthink.github.io/tags/themes/</guid>
+      <guid>https://rays.xyz/tags/themes/</guid>
       <description></description>
     </item>
     
