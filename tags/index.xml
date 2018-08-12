@@ -7,42 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>© 本站采用知识共享署名 - 非商业4.0国际许可协议授权，如果您想引用或复制，请提供来源。</copyright>
-    <lastBuildDate>Mon, 28 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2013 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rays.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://rays.xyz/tags/development/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://rays.xyz/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://rays.xyz/tags/go/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://rays.xyz/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://rays.xyz/tags/golang/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://rays.xyz/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hugo</title>
       <link>https://rays.xyz/tags/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://rays.xyz/tags/hugo/</guid>
       <description></description>
@@ -58,29 +31,11 @@
     </item>
     
     <item>
-      <title>Templates</title>
-      <link>https://rays.xyz/tags/templates/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://rays.xyz/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Theme</title>
       <link>https://rays.xyz/tags/theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://rays.xyz/tags/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>https://rays.xyz/tags/themes/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://rays.xyz/tags/themes/</guid>
       <description></description>
     </item>
     
