@@ -13,7 +13,7 @@
   </url>
   
   <url>
-    <loc>https://rays.xyz/post/hugo-nuo-post-preview/</loc>
+    <loc>https://rays.xyz/post/test/</loc>
     <lastmod>2013-07-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -41,6 +41,12 @@
   </url>
   
   <url>
+    <loc>https://rays.xyz/</loc>
+    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rays.xyz/tags/</loc>
     <lastmod>2013-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -49,12 +55,6 @@
   <url>
     <loc>https://rays.xyz/tags/theme/</loc>
     <lastmod>2013-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rays.xyz/</loc>
-    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
